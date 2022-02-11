@@ -1,7 +1,7 @@
 # Me-marcho-de-nuevo# Proyecto 'Me marcho, de nuevo'
 
 
-![foto] (https://drive.google.com/file/d/174RcHc4mD-8eLHDH_nNaMg8VRuWcfanb/view?usp=sharing)
+![ella](https://user-images.githubusercontent.com/99366565/153661496-d70df293-5afa-4bc7-99f1-7ca569344c98.jpg)
 
 ---
 
