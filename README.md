@@ -1,4 +1,4 @@
-'Me marcho, de nuevo'
+'ME MARCHO, DE NUEVO': LONG FORM JOURNALISM
 
 
 ![ella](https://user-images.githubusercontent.com/99366565/153661496-d70df293-5afa-4bc7-99f1-7ca569344c98.jpg)
