@@ -28,7 +28,7 @@ Resumen: 'Me marcho, de nuevo' es un proyecto multimedia que combina un relato l
 
 - Storyboarder (boceto del proyecto en formato GIF):  https://drive.google.com/file/d/1IRQ6l9Sz3L8J8DFl75xFGTcyl0eRqhSy/view?usp=sharing
 
-- Storyboarder (boceto de la introducción del proyecto en formato GIF):![GIF INTRO 2022-02-12 01 50 52](https://user-images.githubusercontent.com/99366565/153712142-b3c55324-13d4-4766-b4ad-49731983a0ad.gif)
+- Storyboarder (boceto de la introducción del proyecto en formato GIF):  https://drive.google.com/file/d/1DS_jiqSZgPC1uZ8jToNMPLVENSz9plqc/view?usp=sharing
 
 
 ------
