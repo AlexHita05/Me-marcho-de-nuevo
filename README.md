@@ -26,7 +26,7 @@ Resumen: 'Me marcho, de nuevo' es un proyecto multimedia que combina un relato l
 
 - Ren'Py:  https://drive.google.com/drive/folders/16Z5OthObBAwM8m2_HCzkVOQYIJCGN502?usp=sharing
 
-- StoryBoard (boceto del proyecto en formato GIF):  https://drive.google.com/file/d/1IRQ6l9Sz3L8J8DFl75xFGTcyl0eRqhSy/view?usp=sharing
+- Storyboarder (boceto del proyecto en formato GIF):  https://drive.google.com/file/d/1IRQ6l9Sz3L8J8DFl75xFGTcyl0eRqhSy/view?usp=sharing
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
